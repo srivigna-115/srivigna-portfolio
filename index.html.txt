@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Srivigna Palnati - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Srivigna Palnati</h1>
+    <p>B.Tech IT Student</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a B.Tech IT student passionate about Data Science and Web Development. I'm driven by building innovative solutions and exploring emerging tech trends.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>C</li>
+      <li>Java</li>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Smart Property Price Prediction</strong> - A web development project built for the Nexora 2025 Hackathon, focused on estimating land prices based on location and features.</li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p>B.Tech in Information Technology</p>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <p>Coming soon...</p>
+  </section>
+
+  <section id="activities">
+    <h2>Volunteering / Activities</h2>
+    <ul>
+      <li>Hackathon Participant - Nexora 2025</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: srivigna@example.com</p>
+  </footer>
+</body>
+</html>
